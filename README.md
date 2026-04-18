@@ -1,38 +1,44 @@
-# vue-project
+# 💻 Projeto Vue — Gerador de Frases de Programação
 
-This template should help get you started developing with Vue 3 in Vite.
+## 📖 Descrição
+Este projeto é uma aplicação web simples desenvolvida com Vue.js, com o objetivo de gerar frases motivacionais relacionadas à programação.
 
-## Recommended IDE Setup
+A aplicação permite que o usuário clique em um botão para exibir uma frase aleatória, demonstrando interatividade e atualização dinâmica da interface.
 
-[VS Code](https://code.visualstudio.com/) + [Vue (Official)](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+---
 
-## Recommended Browser Setup
+## 🚀 Funcionalidades
+- Gerar frases aleatórias  
+- Interação por botão  
+- Atualização dinâmica da tela  
 
-- Chromium-based browsers (Chrome, Edge, Brave, etc.):
-  - [Vue.js devtools](https://chromewebstore.google.com/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
-  - [Turn on Custom Object Formatter in Chrome DevTools](http://bit.ly/object-formatters)
-- Firefox:
-  - [Vue.js devtools](https://addons.mozilla.org/en-US/firefox/addon/vue-js-devtools/)
-  - [Turn on Custom Object Formatter in Firefox DevTools](https://fxdx.dev/firefox-devtools-custom-object-formatters/)
+---
 
-## Customize configuration
+## 🛠️ Tecnologias Utilizadas
+- Vue.js  
+- JavaScript  
+- HTML  
+- CSS  
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+---
 
-## Project Setup
+## 💡 Conceitos Aplicados
+- Reatividade com `data()`  
+- Manipulação de eventos (`@click`)  
+- Renderização dinâmica  
+- Estrutura de componentes Vue  
 
-```sh
+---
+
+## ▶️ Como Executar o Projeto
+
+```bash
+git clone https://github.com/seuusuario/projeto-vue.git
+cd projeto-vue
 npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
 npm run dev
-```
 
-### Compile and Minify for Production
+## 📷 Prévia do Projeto
 
-```sh
-npm run build
-```
+<img width="842" height="453" alt="image" src="https://github.com/user-attachments/assets/71e0920d-7431-4198-81ff-4c63c8e3125b" />
+
