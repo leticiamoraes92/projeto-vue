@@ -30,14 +30,6 @@ A aplicação permite que o usuário clique em um botão para exibir uma frase a
 
 ---
 
-## ▶️ Como Executar o Projeto
-
-```bash
-git clone https://github.com/seuusuario/projeto-vue.git
-cd projeto-vue
-npm install
-npm run dev
-
 ## 📷 Prévia do Projeto
 
 <img width="842" height="453" alt="image" src="https://github.com/user-attachments/assets/71e0920d-7431-4198-81ff-4c63c8e3125b" />
